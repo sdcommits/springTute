@@ -1,5 +1,7 @@
 package main.java.in.sheenam;
 
+
+@Component
 public class paymentSevice {
 
     public void pay() {
